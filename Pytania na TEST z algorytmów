@@ -1,29 +1,55 @@
-1. Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+
+
 2.Wymień 3 rodzaje sortowań. Odp: Sortowanie szybkie, bąbelkowe i przez wstawianie. (Piotr Zawidzki)
+
+
 3. Wymień i opisz podstawowe funkcje listy. (Michał Pstrąg)
    Odp: search(L, x)    - znajduje wskaźnik do elementu o kluczu 'x' lub null
         insert(L, x, w) - wstawia element 'x' w miejsce 'w'
         delete(L, w)    - usuwa element z miejsca 'w'
         min(L)          - zwraca najmniejszy klucz
         max(L)          - zwraca największy klucz
+
+
 4. Wymień minimum 3 sposoby zapisu algorytmu. (Mateusz Wszoła)
     Odp: - język naturalny
          - pseudokod
          - schemat blokowy
          - język programowania
          - lista kroków
+
+
 5. Co ma największy wpływ na szybkość działania algorytmu? (Damian Chojnacki)
 Odp: - rekurencyjność
      - debugowanie
      + optymalizacja
      - prodecuralność
+
+
 6. Wymień minimum 3 cechy algorytmów. (Joanna Remiasz)
 Odp:  - poprawność
       - jednoznaczność 
       - skończoność 
       - sprawność
       
+
 7. Na czym polega porządkowanie zbioru (sortowanie)? (Tomasz Prus)
+
+
 8. Co to jest Algorytm (definicja)? (Tomasz Prus)
+
+
 9. Jest to figura oznaczająca proces, w jej obrębie umieszczamy wszelkie obliczenia lub podstawienia? (Tomasz Prus)
+
+
 10. Na czym polega problem skoczka szachowego? (Bartosz Grabowski)
+
+
+11. Jaki kształt ma blok decyzyjny/warunkowy ? Odp: Romb (Filip Pawłowski)
+
+
+12. Jak nazywa się algorytm, który w języku programowania można zapisać jako pętle ? Odp: Algorytm Iteracyjny (Filip Pawłowski)
+
+
+13. Jakie bloki algorytmu muszą znaleźć się w każdym algorytmie ? Odp: Bloki graniczne (Start i Stop) (Filip Pawłowski)
