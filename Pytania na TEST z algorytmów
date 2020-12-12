@@ -47,7 +47,9 @@ Odp:  - poprawność
 
 
 10. Na czym polega problem skoczka szachowego? (Bartosz Grabowski)
-
+Odp: Problem polegał na obejściu skoczkiem wszystkich pól planszy tak, żeby na każdym polu stanąć raz i tylko raz. 
+Jeśli skoczek może po ostatnim ruchu wrócić na pole, z którego zaczynał, to mówimy o zamkniętej ścieżce skoczka szachowego. 
+Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wrócić na startowe pole, to mówimy o ścieżce otwartej
 
 11. Jaki kształt ma blok decyzyjny/warunkowy ? Odp: Romb (Filip Pawłowski)
 
