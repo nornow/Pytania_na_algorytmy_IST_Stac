@@ -12,3 +12,8 @@
          - schemat blokowy
          - język programowania
          - lista kroków
+5. Co ma największy wpływ na szybkość działanka algorytmu? (Damian Chojnacki)
+Odp: - rekurencyjność
+     - debugowanie
+     - optymalizacja
+     - prodecuralność
