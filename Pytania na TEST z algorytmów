@@ -1,2 +1,8 @@
 1. Czym jest drzewo binarne? (Zuzanna Tarazewicz)
 2.Wymień 3 rodzaje sortowań. Odp: Sortowanie szybkie, bąbelkowe i przez wstawianie. (Piotr Zawidzki)
+3. Wymien i opisz podstawowe funkcje listy. (Michał Pstrąg)
+   Odp: search(L, x)    - znajduje wskaźnik do elementu o kluczu 'x' lub null
+        insert(L, x, w) - wstawia element 'x' w miejsce 'w'
+        delete(L, w)    - usuwa element z miejsa 'w'
+        min(L)          - zwraca najmniejszy klucz
+        max(L)          - zwraca największy klucz
