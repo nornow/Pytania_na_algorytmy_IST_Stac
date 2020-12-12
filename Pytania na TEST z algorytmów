@@ -66,3 +66,12 @@ Odp:  - poprawność
 
 15. Do czego służy struktura danych - rekord? (Mateusz Wszoła)
   - Do przechowywania logicznie powiązanych ze sobą danych w jednym obszarze pamięci
+  
+16. Rozwiń skrót FIFO (Michał Bej)
+  - First in First Out.
+ 
+17. Rozwiń skrót LIFO (Michał Bej)
+  - Last In First Out.
+  
+18. Czy są Mosty Królewskie (Michał Bej)
+  - Problem polegał na przejściu przez 7 mostów łączących dzielnice miasta z wyspą w taki sposób aby po każdym moście przejść tylko raz.
