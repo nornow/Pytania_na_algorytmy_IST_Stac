@@ -6,3 +6,9 @@
         delete(L, w)    - usuwa element z miejsa 'w'
         min(L)          - zwraca najmniejszy klucz
         max(L)          - zwraca największy klucz
+4. Wymień minimum 3 sposoby zapisu algorytmu. (Mateusz Wszoła)
+    Odp: - język naturalny
+         - pseudokod
+         - schemat blokowy
+         - język programowania
+         - lista kroków
