@@ -15,5 +15,5 @@
 5. Co ma największy wpływ na szybkość działania algorytmu? (Damian Chojnacki)
 Odp: - rekurencyjność
      - debugowanie
-     - optymalizacja
+     + optymalizacja
      - prodecuralność
