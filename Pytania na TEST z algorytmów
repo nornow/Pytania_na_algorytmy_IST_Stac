@@ -60,3 +60,6 @@ Odp:  - poprawność
    + Polega na przejściu dokładnie raz przez każdy wierzchołek w grafie
    - Polega na przejściu dokładnie raz przez każdy wierzchołek i na powrocie do pierwszego wierzchołka
    --Polega na przejechaniu pół okrążenia na nowych oponach i narzekaniu na nie
+
+15. Do czego służy struktura danych - rekord? (Mateusz Wszoła)
+  - Do przechowywania logicznie powiązanych ze sobą danych w jednym obszarze pamięci
