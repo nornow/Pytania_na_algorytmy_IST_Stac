@@ -53,3 +53,10 @@ Odp:  - poprawność
 
 
 13. Jakie bloki algorytmu muszą znaleźć się w każdym algorytmie ? Odp: Bloki graniczne (Start i Stop) (Filip Pawłowski)
+
+
+14. Na czym polega ścieżka Hamiltona? (Mikołaj Barański)
+   - Polega na przejściu dokładnie raz przez każdą krawędź grafu
+   + Polega na przejściu dokładnie raz przez każdy wierzchołek w grafie
+   - Polega na przejściu dokładnie raz przez każdy wierzchołek i na powrocie do pierwszego wierzchołka
+   --Polega na przejechaniu pół okrążenia na nowych oponach i narzekaniu na nie
