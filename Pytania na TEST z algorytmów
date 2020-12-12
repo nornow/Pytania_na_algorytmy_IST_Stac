@@ -1,8 +1,11 @@
 ﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+   Odp: To struktura danych zbudowana z węzłów. Dane są przechowywane w węzłach drzewa, które są ze sobą powiązane
+   hierarchicznie za pomocą strzałki, która określa hierarchię węzła. Pierwszy węzeł to korzeń, z niego właśnie
+   "wyrastają" inne węzły, które nazywane są synami. Węzeł nadrzędny jest nazywany ojcem, a synowie tego samego ojca,
+   są nazywani braćmi. Węzeł nieposiadający synów jesy nazywany liściem.
 
-
-2.Wymień 3 rodzaje sortowań. Odp: Sortowanie szybkie, bąbelkowe i przez wstawianie. (Piotr Zawidzki)
-
+2.Wymień 3 rodzaje sortowań. (Piotr Zawidzki)
+   Odp: Sortowanie szybkie, bąbelkowe i przez wstawianie. 
 
 3. Wymień i opisz podstawowe funkcje listy. (Michał Pstrąg)
    Odp: search(L, x)    - znajduje wskaźnik do elementu o kluczu 'x' lub null
