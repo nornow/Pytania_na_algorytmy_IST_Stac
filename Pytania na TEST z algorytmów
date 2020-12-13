@@ -95,3 +95,11 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          -algorytmy z rozgałęzieniami 
          -algorytmy rekurencyjne
          -algorytmy iteracyjne
+
+23. Wymień minimum 3 przykładowe struktury danych. (Joanna Remiasz)
+   Odp:  -lista
+         -stos
+         -kolejka
+         -graf 
+         -kopiec  
+         -drzewo
