@@ -339,3 +339,22 @@ od razu wszystkich nieodwiedzonych sąsiadów rozpatrywanego wierzchołka. (Kami
 62. Różnica między złożonością optymistyczną a pesymistyczną?
 Optymistyczna określa zużycie zasobów dla najkorzystniejszego zestawu danych, a pesymistyczna określa
 zużycie zasobów dla najbardziej niekorzystnego zestawu danych. (Kamil Wesołowski i Robert Kukiel)
+
+63. Sortowanie przez scalanie należy do algorytmu: (Norbert Kosierkiewicz)
+A.	rekurencyjnego (poprawna odpowiedź)
+B.	iteracyjnego
+C.	liniowego
+D.	niestabilnego
+
+64. Algorytm Shella(metoda malejących przyrostów) należy do sortowania: (Norbert Kosierkiewicz)
+A.	przez scalanie
+B.	bąbelkowego
+C.	przez wstawianie (poprawna odpowiedź)
+D.	kubełkowego
+
+65. Metody heurystyczne: (Norbert Kosierkiewicz)
+A.	gwarantują znalezienie optymalnego rozwiązania
+B.	służą przy prostych metodach rozwiązania problemu
+C.	należą do algorytmów dokładnych.
+D.	cechują się bardzo duża szybkością działania (poprawna odpowiedź)
+
