@@ -239,4 +239,29 @@ D żadna z odpowiedzi nie jest poprawna
    B. Quick sort 
    C. Selection sort
    D. Insertion sort
+   
+   47.	Czym jest lista krawędzi? 
+a)	Lista na której przechowywane są wszystkie krawędzie występujące w grafie.(DOBRE)
+b)	Kwadratowa tablica o rozmiarze V*V, która wypełnia się zerami jeśli dwa wierzchołki nie są połączone krawędzią.
+c)	Algorytm wynaleziony w 1956 przez E.J.Isacca działający w czasie liniowym
+d)	Polega na przypisaniu każdemu wierzchołkami grafu listy sąsiadujących z nim wierzchołków.
+
+48.	Jak działają algorytmy regurencyjne?
+a)	Same siebie wywołują (DOBRE)
+b)	Sortują przez zamianę 
+c)	Wymagają liczb z przedziału (0,1)
+d)	Wypisują permutacje w porządku rosnącym
+
+49.	Do czego używany jest algorytm Dijkstry?
+a)	Do porównania wszystkich ścieżek 
+b)	Używany jest do rootingu (najkrótszej drogi) (DOBRE)
+c)	Do sortowania przez zamianę 
+d)	Rozwiązuje problem ośmiu hetmanów
+
+50.	Jakie są sposoby na zapisywanie algorytmów? 
+a)	Język naturalny, kod binarny, kod szesnastkowy, języki formalne
+b)	Wzory matematyczne, grafy, rysunki, funkcje
+c)	Język naturalny, schematy blokowe, języki formalne, funkcje rekurencyjne (DOBRE)
+d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
+
 
