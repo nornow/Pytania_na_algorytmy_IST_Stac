@@ -83,3 +83,6 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    - To graf, w którym można skonstruować cykl Eulera, który przechodzi przez każdą jego krawędź nieskończenie wiele razy i nie wraca nigdy do punktu wyjściowego.
    + To graf, w którym można skonstruować cykl Eulera, który przechodzi przez każdą jego krawędź dokładnie raz i wraca do punktu wyjściowego.
    - To graf, w którym można stworzyć cykl Eulera, który przechodzi przez wybrane krawędzie tylko raz i wraca do punktu wyjściowego.
+   
+20. Na czym polegają algorytmy iteracyjne? (Aleksandra Kania)
+   + Są to algorytmy, które powtarzają daną operacje początkowo określoną liczbę razy lub aż do spełnienia określonego warunku.
