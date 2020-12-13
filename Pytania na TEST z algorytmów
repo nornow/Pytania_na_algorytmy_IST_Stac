@@ -1,4 +1,4 @@
-﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
    Odp: To struktura danych zbudowana z węzłów. Dane są przechowywane w węzłach drzewa, które są ze sobą powiązane
    hierarchicznie za pomocą strzałki, która określa hierarchię węzła. Pierwszy węzeł to korzeń, z niego właśnie
    "wyrastają" inne węzły, które nazywane są synami. Węzeł nadrzędny jest nazywany ojcem, a synowie tego samego ojca,
@@ -165,15 +165,37 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    - Samemu wykonać iterację
 
 36. Iteracja jest to: (Igor Ulanowski)
-
-A. jednokrotne wykonanie fragmentu programu
-B. sprawdzanie wprowadzonego warunku
-C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
-D. przypisanie zmiennej wartości 
+   A. jednokrotne wykonanie fragmentu programu
+   B. sprawdzanie wprowadzonego warunku
+   C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
+   D. przypisanie zmiennej wartości 
 
 37. Algorytm wieże Hanoi jest algorytmem: (Igor Ulanowski)
-A. rekurencyjnym
-B iteracyjnym
-C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
-D żadna z odpowiedzi nie jest poprawna
+   A. rekurencyjnym
+   B iteracyjnym
+   C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
+   D żadna z odpowiedzi nie jest poprawna
 
+38. Wskaż parametr mający bezpośredni wpływ na szybkość algorytmu: (Mateusz Wszoła)
+  A. ilość użytych zmiennych
+  B. wielkość miejsca potrzebna do zapisu danych
+  C. liczba wyrażeń arytmetyczno-logicznych (poprawna odpowiedź)
+  D. żadna z wymienionych odpowiedzi
+
+39. Czym jest złożoność pamięciową algorytmu: (Mateusz Wszoła)
+  A. liczbą komórek pamięci, które będą zajęte przez dane (poprawna odpowiedź)
+  B. zużyciem zasobów dla niekorzystnego zestawu danych
+  C. ilością czasu potrzebnego na wykonanie zadania
+  D. liczbą procedur wykonanych przez algorytm
+
+40. Wskaż sytuację, która opisuje działanie na zasadzie FIFO: (Mateusz Wszoła)
+  A. pobieranie poziomo położonych talerzy z szafki
+  B. wyciąganie zapakowanych jedna na drugą płytek z kartonu
+  C. kolejka do kasy w sklepie (poprawna odpowiedź)
+  D. losowanie ponumerowanych piłek z zamkniętymi oczami
+  
+  41.Cechą idealnego algorytmu jest: (Miłosz Bolewski)
+  A.Zapotrzebowanie na dużą ilość pamięci
+  B.prosty kod (poprawna odpowiedź)
+  C.możliwość zapisania w każdym języku programowania (poprawna odpowiedź)
+  D.może dawać fałszywe wyniki
