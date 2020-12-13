@@ -169,3 +169,15 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
 	- Odwiedzenie w sposób usystematyzowany wszystkich wierzchołków grafu.
 	+ W danym grafie należy znaleźć ścieżkę o najmniejszej sumie wag krawędzi, która przechodzi dokładnie jeden raz przez każdy wierzchołek i wraca do wierzchołka startowego.
 	- Należy w danym grafie znaleźć ścieżkę, która przechodzi przez każdą krawędź dokładnie jeden raz i wraca do punktu wyjściowego.
+
+37. Iteracja jest to: (Igor Ulanowski)
+   A. jednokrotne wykonanie fragmentu programu
+   B. sprawdzanie wprowadzonego warunku
+   C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
+   D. przypisanie zmiennej wartości 
+
+38. Algorytm wieże Hanoi jest algorytmem: (Igor Ulanowski)
+   A. rekurencyjnym
+   B. iteracyjnym
+   C. rekurencyjnym i iteracyjnym (poprawna odpowiedź)
+   D. żadna z odpowiedzi nie jest poprawna
