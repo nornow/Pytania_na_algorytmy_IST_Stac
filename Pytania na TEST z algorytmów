@@ -430,3 +430,10 @@ Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czaso
 	C. to sposób sprowadzania ułamków do wspólnego mianownika
 	D. to sposób na obliczanie wielomianu w przedziale
 	ODP: A
+	
+  78. Instrukcja warunkowa jest charakterystyczna dla algorytmu: (Norbert Nowotka)
+	A. sekwencyjnego
+	B. wszystkie odpowiedzi są poprawne
+	C. rozgałęzionego
+	D. numerycznego
+	ODP: C
