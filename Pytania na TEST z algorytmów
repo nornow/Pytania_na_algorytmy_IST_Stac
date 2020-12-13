@@ -265,8 +265,15 @@ c)	Język naturalny, schematy blokowe, języki formalne, funkcje rekurencyjne (D
 d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
 
 
- 47. Jaki algorytm sortujący działa najszybciej, gdy elementy są uporządkowane w sposób losowy? (Norbert Kosierkiewicz)
+ 51. Jaki algorytm sortujący działa najszybciej, gdy elementy są uporządkowane w sposób losowy? (Norbert Kosierkiewicz)
   A.	Sortowanie bąbelkowe
   B.	Sortowanie mieszane
   C.	Sortowanie szybkie (poprawna odpowiedź)
   D.	Sortowanie proste
+  
+  
+ 52. Algorytm sortujący, który charakteryzuje się wybraniem najmniejszego elemntu i wstawienie go na pierwszą pozycję to: (Patryk Sztuczka)
+   A. Bubble sort 
+   B. Quick sort 
+   C. Selection sort (poprawna odpowiedź)
+   D. Insertion sort
