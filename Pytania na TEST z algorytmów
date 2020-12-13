@@ -388,4 +388,8 @@ D.	cechują się bardzo duża szybkością działania (poprawna odpowiedź)
 	c) Hierarcha określana jest za pomocą strzałki. Strzałka wychodzi z nadrzędnego węzła. (dobra)
 	d) Hierarcha określana jest za pomocą strzałki. Strzałka wychodzi z podrzędnego węzła. 
 
-
+71. Który algorytm sortujący wykorzystuje pivot? (Szymon Janiak)
+A. Algorytm sortowania szybkiego (poprawna odpowiedź)
+B. Algorytm sortowania prostego
+C. Algorytm sortowania bąbelkowego
+D. Algorytm sortowania przez wstawianie
