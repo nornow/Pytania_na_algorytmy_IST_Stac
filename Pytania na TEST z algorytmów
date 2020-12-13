@@ -536,3 +536,6 @@ Odp:	a) spójnego (poprawna odpowiedź)
 	-grafem Eulera
 	-cyklem Hamiltona(poprawne)
 	-algorytmu rekurencyjnego
+	
+97. Opisz na czym polega problem komiwojażera.
+Odp: Dane jest n liczby miast, które komiwojażer na odwiedzić oraz odległość między każdym miastem. Celem problemu jest znalezienie najkrótszej, najoptymalniejszej trasy, która łączy wszystkie miasta, gdzie trasa ta zaczyna i kończy się się w określonym punkcie.
