@@ -930,3 +930,26 @@ B. decyzyjnego
 C. fragmentu (poprawna odpowiedź)
 D. granicznego
 
+88. Wybierz wszystkie etapy Quick Sort. (Zuzanna Tarazewicz)
+	a. Dziel (Dobra)
+	b. Połącz (Dobra)
+	c. Dodaj
+	d. Zwyciężaj (Dobra)
+	
+89. Podaj warunek niestruktualny kompletnego drzewa binarnego. (Zuzanna Tarazewicz)
+	a. Podrzędne węzły muszą mieć większą zawartość pola data, niż ich nadrzędne węzły.
+	b. Podrzędne węzły nie mogą mieć większej zawartości pola data niż ich nadrzędne węzły. (dobra)
+	c. Ilość węzłów bez węzłów podrzędnych musi wynosić dokładnie 1024 węzły.
+	d. Każdy ostatni węzeł nadrzędny musi mieć maksymalnie jeden węzeł podrzędny.
+	
+90. Jak inaczej nazywamy złożoność minimalną? (Zuzanna Tarazewicz)
+	a. Radosna
+	b. Piękna
+	c. Optymistyczna (Dobra)
+	d. Pozytywna
+	
+91. Jak inaczej nazywamy złożoność maksymalną? (Zuzanna Tarazewicz)
+	a. Smutna
+	b. Brzydka
+	c. Pesymistyczna (Dobra)
+	d. Negatywna
