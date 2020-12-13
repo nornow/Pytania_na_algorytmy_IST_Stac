@@ -164,3 +164,8 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    - Posiadać nieskończoną pętle WHILE
    - Samemu wykonać iterację
 
+36. Na czym polega problem komiwojażera? (Jakub Kujawa)
+	- Należy znaleść ścieżkę o najmiejszej sumie wag, która przechodzi przez każdą krawędz grafu.
+	- Odwiedzenie w sposób usystematyzowany wszystkich wierzchołków grafu.
+	+ W danym grafie należy znaleźć ścieżkę o najmniejszej sumie wag krawędzi, która przechodzi dokładnie jeden raz przez każdy wierzchołek i wraca do wierzchołka startowego.
+	- Należy w danym grafie znaleźć ścieżkę, która przechodzi przez każdą krawędź dokładnie jeden raz i wraca do punktu wyjściowego.
