@@ -292,4 +292,21 @@ d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
      zestawu danych
  D.zużycie zasobów dla konkretnego zestawu danych
    
-   
+   55. Który algorytm składa się częściowo z samego siebie: (Bartosz Warszyński)
+A - Iteracyjny
+B - Na grafach
+C - Rekurencyjny (POPRAWNA)
+D - Cykliczny
+
+56. Która z wymienionych metod jest metodą przeszukiwania grafu: (Bartosz Warszyński)
+A - Przeszukiwanie w głąb (POPRAWNA)
+B - przeszukiwanie wzdłuż
+C - Przeszukiwanie zewnętrzne
+D - Przeszukiwanie wewnętrzne
+
+57. Jak nazywany jest węzeł główny drzewa binarnego (Bartosz Warszyński)
+A - Gałąź
+B - Korona
+C - Węzeł wewnętrzny
+D - Korzeń (POPRAWNE)
+
