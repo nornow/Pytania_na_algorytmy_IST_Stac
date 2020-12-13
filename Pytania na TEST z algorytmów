@@ -397,3 +397,9 @@ D. Algorytm sortowania przez wstawianie
 72. Czym jest sortowanie bąbelkowe (ang. bubble sort)? (Marcin Sypniewski)
 
 Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czasowej O(n^{2}) i pamięciowej O(1).
+
+73. Grafy dzieli się na: (Jan Malinowski)
+	a) minimalne i maksymalne
+	b) skierowane i nieskierowane (poprawna odpowiedź)
+	c) jednowymiarowe i wielowymiarowe
+	d) podrzędne i nadrzędne
