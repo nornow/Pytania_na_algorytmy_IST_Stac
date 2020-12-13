@@ -120,8 +120,14 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          albo w liczbie operacji [n].
 
 27. Czym jest czasowa złożoność obliczeniowa? (Iga Biegasiewicz)
++ilość czasu niezbędna do rozwiązania problemu, zależna jest od liczby danych wejściowych
+-ilość czasu poświecona na napisanie programu
 
 28. Czym jest złożoność pamięciowa? (Iga Biegasiewicz)
++liczba komórek pamięci, która będzie zajęta przez dane i wyniki pośrednie tworzone w trakcie pracy algorytmu
+-liczba komórek pamięci, która nie będzie zajęta przez dane, ani wyniki pośrednie tworzone w trakcie pracy algorytmu
+-liczba komórek pamięci, która będzie zajęta przez dane wykorzystane w algorytmie
+-liczba komórek pamięci, która będzie zajęta wyniki pośrednie tworzone w trakcie pracy algorytmu
 
 29. Blok wprowadzania danych jest oznaczany na schemacie blokowym: (Kacper Grabiński)
    A. prostokątem
@@ -194,8 +200,16 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
   C. kolejka do kasy w sklepie (poprawna odpowiedź)
   D. losowanie ponumerowanych piłek z zamkniętymi oczami
   
+
   41.Cechą idealnego algorytmu jest: (Miłosz Bolewski)
   A.Zapotrzebowanie na dużą ilość pamięci
   B.prosty kod (poprawna odpowiedź)
   C.możliwość zapisania w każdym języku programowania (poprawna odpowiedź)
   D.może dawać fałszywe wyniki
+
+  42. Nie istnieje postać złożonośi pamięciowej: (Patryk Sztuczka)
+    A. Zerowa (poprawna odpowiedź)
+    B. Minimalna
+    C. Średnia
+    D. Maksymalna
+
