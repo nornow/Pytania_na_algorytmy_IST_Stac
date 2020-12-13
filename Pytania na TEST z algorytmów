@@ -102,11 +102,11 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          c) kopiec
          d) graf
   
-24. Czym różni się stos, a kolejka? (Joanna Remiasz)
-   Odp: -stos i kolejka to liniowe struktury danych 
-         -na stosie element, który doszedł ostatni jest zużywany jako pierwszy 
-         -w kolejce elementy są zużywane w takiej kolejności jak przyszły do kolejki 
-         -operacje wstawienia/usunięcia elementów do stosu/kolejki wykonywane są w czasie O(1)
+24. Zaznacz poprawne odpowiedzi. (Joanna Remiasz)
+   Odp:  a) stos i kolejka to liniowe struktury danych (poprawna opowiedź)
+         b) na stosie element, który doszedł jako pierwszy jest zużywany jako ostatni  
+         c) w kolejce elementy są zużywane w różnej kolejności 
+         d) operacje wstawienia/usunięcia elementów do stosu/kolejki wykonywane są w czasie O(1) (poprawna odpowiedź)
          
 25. Na czym polega złożoność pamięciowa algorytmu? (Michał Pstrąg)
     Odp: Określa liczbę komórek pamięci, która będzie zajęta przez dane i wyniki pośrednie tworzone w trakcie pracy algorytmu.
