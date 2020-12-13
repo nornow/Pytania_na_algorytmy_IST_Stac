@@ -332,3 +332,10 @@ a. na wyznaczeniu najkrótszej drogi ze źródła do ujścia ( poprawne)
 b. na optymalizacji szybkości działania programu.
 c. na wyznaczeniu najdłuższej drogi z ujscia do źródła.
 d. na wyznaczeniu błędów kodu w czasie kompilacji.
+
+61. Przeszukiwanie grafu wszerz (BFS) - procedura porusza się wszerz grafu, aby odwiedzić 
+od razu wszystkich nieodwiedzonych sąsiadów rozpatrywanego wierzchołka. (Kamil Wesołowski i Robert Kukiel)
+
+62. Różnica między złożonością optymistyczną a pesymistyczną?
+Optymistyczna określa zużycie zasobów dla najkorzystniejszego zestawu danych, a pesymistyczna określa
+zużycie zasobów dla najbardziej niekorzystnego zestawu danych. (Kamil Wesołowski i Robert Kukiel)
