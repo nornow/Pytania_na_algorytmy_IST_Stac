@@ -918,4 +918,15 @@ Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czaso
 + Przy wyborze najkrótszej ścieżki
 - W sortowaniu przez wybór
 
+86. Drzewo, w którym wartości potomków węzła są w stałej relacji z wartością rodzica to: (Norbert Kosierkiewicz)
+A. kopiec (poprawna odpowiedź)
+B. drzewo binarne
+C. struktura
+D. stos
+
+87. W schemacie blokowym, aby przedstawić część programu zdefiniowanego odrębnie, należy skorzystać z bloku: (Norbert Kosierkiewicz)
+A. komentarza
+B. decyzyjnego
+C. fragmentu (poprawna odpowiedź)
+D. granicznego
 
