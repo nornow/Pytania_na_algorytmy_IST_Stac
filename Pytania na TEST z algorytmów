@@ -1,8 +1,8 @@
-1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
-   a) Sposób tworzenia algorytmu. 
-   b) Struktura danych zbudowana z węzłów. (dobra)
-   c) Liniowo uporządkowany zbiór danych. 
-   d) Działanie w systemie dwójkowym.
+﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+   Odp: To struktura danych zbudowana z węzłów. Dane są przechowywane w węzłach drzewa, które są ze sobą powiązane
+   hierarchicznie za pomocą strzałki, która określa hierarchię węzła. Pierwszy węzeł to korzeń, z niego właśnie
+   "wyrastają" inne węzły, które nazywane są synami. Węzeł nadrzędny jest nazywany ojcem, a synowie tego samego ojca,
+   są nazywani braćmi. Węzeł nieposiadający synów jesy nazywany liściem.
 
 2.Wymień 3 rodzaje sortowań. (Piotr Zawidzki)
    Odp: Sortowanie szybkie, bąbelkowe i przez wstawianie. 
@@ -85,7 +85,10 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    - To graf, w którym można stworzyć cykl Eulera, który przechodzi przez wybrane krawędzie tylko raz i wraca do punktu wyjściowego.
    
 20. Na czym polegają algorytmy iteracyjne? (Aleksandra Kania)
+   - Są to algorytmy, które polegają na tym, że obiekt składa się częściowo z samego siebie.
    + Są to algorytmy, które powtarzają daną operacje początkowo określoną liczbę razy lub aż do spełnienia określonego warunku.
+   - Są to algorytmy, w których występuje funkcja lub procedura wywołująca samą siebie.
+   + Są to algorytmy, które charakteryzują się zapętleniem pewnych czynności, które są powtarzalne aż do uzyskania jakiegoś celu.
    
 21. Czym jest stos,oraz jak działa? (Mikołaj Bryliński)
    Odp:a) Stos to liniowa struktura danych w której dane dokładane są na wierzch i z wierzchołka są pobierane. (Poprawna odpowiedź)
@@ -171,17 +174,16 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    - Samemu wykonać iterację
 
 36. Iteracja jest to: (Igor Ulanowski)
-
-A. jednokrotne wykonanie fragmentu programu
-B. sprawdzanie wprowadzonego warunku
-C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
-D. przypisanie zmiennej wartości 
+   A. jednokrotne wykonanie fragmentu programu
+   B. sprawdzanie wprowadzonego warunku
+   C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
+   D. przypisanie zmiennej wartości 
 
 37. Algorytm wieże Hanoi jest algorytmem: (Igor Ulanowski)
-A. rekurencyjnym
-B iteracyjnym
-C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
-D żadna z odpowiedzi nie jest poprawna
+   A. rekurencyjnym
+   B iteracyjnym
+   C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
+   D żadna z odpowiedzi nie jest poprawna
 
 38. Wskaż parametr mający bezpośredni wpływ na szybkość algorytmu: (Mateusz Wszoła)
   A. ilość użytych zmiennych
@@ -200,109 +202,3 @@ D żadna z odpowiedzi nie jest poprawna
   B. wyciąganie zapakowanych jedna na drugą płytek z kartonu
   C. kolejka do kasy w sklepie (poprawna odpowiedź)
   D. losowanie ponumerowanych piłek z zamkniętymi oczami
-
-
-41.Czym charakteryzuje się ścieżka Hamiltona? (Daria Krupowska)
-  A.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz. (poprawne)
-  B.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym.
-  C.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
-  D.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu.
-
-42. Czym charakteryzuje się ścieżka Eulera? (Daria Krupowska) 
-  A.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym. (poprawne)
-  B.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz.
-  C.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu i kończy się w wierzchołku startowym.
-  D.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
-
-  
-
-  43.Cechą idealnego algorytmu jest: (Miłosz Bolewski)
-  A.Zapotrzebowanie na dużą ilość pamięci
-  B.prosty kod (poprawna odpowiedź)
-  C.możliwość zapisania w każdym języku programowania (poprawna odpowiedź)
-  D.może dawać fałszywe wyniki
-
- 44. Nie istnieje postać złożonośi pamięciowej: (Patryk Sztuczka)
-   A. Zerowa (poprawna odpowiedź)
-   B. Minimalna
-   C. Średnia
-   D. Maksymalna
-    
- 45. Algoryt sortujący opierający się na strategii "dziel i zwyciężaj" to: (Patryk Sztuczka)
-   A. Bubble sort
-   B. Quick sort (poprawna odpowiedź)
-   C. Selection sort
-   D. Insertion sort
- 
- 46. Algorytm sortujący polegający na porównywaniu par sąsiadujących elementów to: (Patryk Sztuczka)
-   A. Bubble sort (poprawna odpowiedź)
-   B. Quick sort 
-   C. Selection sort
-   D. Insertion sort
-   
-   47.	Czym jest lista krawędzi? 
-a)	Lista na której przechowywane są wszystkie krawędzie występujące w grafie.(DOBRE)
-b)	Kwadratowa tablica o rozmiarze V*V, która wypełnia się zerami jeśli dwa wierzchołki nie są połączone krawędzią.
-c)	Algorytm wynaleziony w 1956 przez E.J.Isacca działający w czasie liniowym
-d)	Polega na przypisaniu każdemu wierzchołkami grafu listy sąsiadujących z nim wierzchołków.
-
-48.	Jak działają algorytmy regurencyjne?
-a)	Same siebie wywołują (DOBRE)
-b)	Sortują przez zamianę 
-c)	Wymagają liczb z przedziału (0,1)
-d)	Wypisują permutacje w porządku rosnącym
-
-49.	Do czego używany jest algorytm Dijkstry?
-a)	Do porównania wszystkich ścieżek 
-b)	Używany jest do rootingu (najkrótszej drogi) (DOBRE)
-c)	Do sortowania przez zamianę 
-d)	Rozwiązuje problem ośmiu hetmanów
-
-50.	Jakie są sposoby na zapisywanie algorytmów? 
-a)	Język naturalny, kod binarny, kod szesnastkowy, języki formalne
-b)	Wzory matematyczne, grafy, rysunki, funkcje
-c)	Język naturalny, schematy blokowe, języki formalne, funkcje rekurencyjne (DOBRE)
-d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
-
-
-51. Jaki algorytm sortujący działa najszybciej, gdy elementy są uporządkowane w sposób losowy? (Norbert Kosierkiewicz)
-  A.	Sortowanie bąbelkowe
-  B.	Sortowanie mieszane
-  C.	Sortowanie szybkie (poprawna odpowiedź)
-  D.	Sortowanie proste
-  
-52. Gdzie przechowywane są dane w drzewie binarnym? (Zuzanna Tarazewicz)
-   a) W węzłach. (dobra)
-   b) W strzałkach.
-   c) Zarówno w węzłach, jak i w strzałkach.
-   d) Drzewo binarne nie jest strukturą przechowywania danych.
-   
-53. Jak nazywany jest pierwszy węzeł w drzewie binarnym? (Zuzanna Tarazewicz)
-   a) Liść
-   b) Łodyga
-   c) Korzeń (dobra)
-   d) Pączek
-   
-54. Jak nazywany jest węzeł, który nie posiada węzłów podrzędnych? (Zuzanna Tarazewicz)
-   a) Pączek
-   b) Łodyga
-   c) Korzeń
-   d) Liść (dobra)
-   
-55. Jak nazywa się podrzędny węzeł, który wychodzi z nadrzędnego węzła? (Zuzanna Tarazewicz)
-   a) Syn (dobra)
-   b) Córka
-   c) Dziecko
-   d) Potomek
-
-56. Jak nazywa się nadrzędny węzeł, z którego wychodzi jeden lub więcej podrzędnych węzłów? (Zuzanna Tarazewicz)
-   a) Matka
-   b) Ojciec (dobra)
-   c) Szef
-   d) Rodzic
-   
-57. W jaki sposób określana jest hierarchia węzła? (Zuzanna Tarazewicz)
-   a) Węzły są ponumerowane od 1 do n, 1 to najważniejszy węzeł.
-   b) Węzły są ponumerowane od n do 1, n to najważniejszy węzeł. 
-   c) Hierarcha określana jest za pomocą strzałki. Strzałka wychodzi z nadrzędnego węzła.
-   d) Hierarcha określana jest za pomocą strzałki. Strzałka wychodzi z podrzędnego węzła. 
