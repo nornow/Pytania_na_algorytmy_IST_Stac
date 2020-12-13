@@ -240,3 +240,8 @@ D żadna z odpowiedzi nie jest poprawna
    C. Selection sort
    D. Insertion sort
 
+ 47. Jaki algorytm sortujący działa najszybciej, gdy elementy są uporządkowane w sposób losowy? (Norbert Kosierkiewicz)
+  A.	Sortowanie bąbelkowe
+  B.	Sortowanie mieszane
+  C.	Sortowanie szybkie (poprawna odpowiedź)
+  D.	Sortowanie proste
