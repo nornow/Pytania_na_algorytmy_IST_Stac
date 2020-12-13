@@ -104,6 +104,22 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          -kopiec  
          -drzewo
 
-24. Czym jest czasowa złożoność obliczeniowa? (Iga Biegasiewicz)
+24. Czym różni się stos, a kolejka? (Joanna Remiasz)
+   Odp: -stos i kolejka to liniowe struktury danych 
+         -na stosie element, który doszedł ostatni jest zużywany jako pierwszy 
+         -w kolejce elementy są zużywane w takiej kolejności jak przyszły do kolejki 
+         -operacje wstawienia/usunięcia elementów do stosu/kolejki wykonywane są w czasie O(1)
+         
+25. Na czym polega złożoność pamięciowa algorytmu? (Michał Pstrąg)
+    Odp: Określa liczbę komórek pamięci, która będzie zajęta przez dane i wyniki pośrednie tworzone w trakcie pracy algorytmu.
+    
+26. Na czym polega czasowa złożoność obliczeniowa algorytmu? (Michał Pstrąg)
+    Odp: Określa ilość czasu niezbędnego do rozwiązania problemu w zależności od liczby danych wejściowych. 
+         Złożoność czasowa jest zatem pewną funkcją liczby danych wejściowych n. Wyrażamy ją w jednostkach czasu [s] 
+         albo w liczbie operacji [n].
 
-25. Czym jest złożoność pamięciowa? (Iga Biegasiewicz)
+27. Czym jest czasowa złożoność obliczeniowa? (Iga Biegasiewicz)
+
+28. Czym jest złożoność pamięciowa? (Iga Biegasiewicz)
+
+
