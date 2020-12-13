@@ -277,11 +277,11 @@ d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
    B. Quick sort 
    C. Selection sort (poprawna odpowiedź)
    D. Insertion sort
-  
- 53. Algorytm sortujący, który przypomina układanie kart pobranych z talii to: (Patryk Sztuczka)
-   A. Bubble sort 
-   B. Quick sort 
-   C. Selection sort 
-   D. Insertion sort (poprawna odpowiedź)
    
-   
+ 53.Złożoność średnia określa:
+ A.zużycie zasobów dla najkorzystniejszego
+  zestawu danych
+ B.zużycie zasobów dla losowego zestawu danych(poprawna)
+ C.określa zużycie zasobów dla niekorzystnego
+zestawu danych
+ D.zużycie zasobów dla konkretnego zestawu danych
