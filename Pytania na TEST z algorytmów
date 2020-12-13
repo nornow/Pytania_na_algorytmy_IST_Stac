@@ -416,3 +416,10 @@ Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czaso
    B. zużycie zasobów dla losowego zestawu danych
    C. określa zużycie zasobów dla niekorzystnego zestawu danych (odpowiedź poprawna)
    D. zużycie zasobów dla konkretnego zestawu danych
+  
+  9. Algorytm Euklidesa to algorytm: (Norbert Nowotka)
+	A. obliczający NWW 
+	B. obliczający NWD
+	C. obliczający ONP
+	D. obliczający NWW i NWD
+	ODP: B
