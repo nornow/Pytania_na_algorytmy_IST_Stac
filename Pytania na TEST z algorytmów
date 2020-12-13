@@ -1,8 +1,8 @@
 ﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
-   Odp: To struktura danych zbudowana z węzłów. Dane są przechowywane w węzłach drzewa, które są ze sobą powiązane
-   hierarchicznie za pomocą strzałki, która określa hierarchię węzła. Pierwszy węzeł to korzeń, z niego właśnie
-   "wyrastają" inne węzły, które nazywane są synami. Węzeł nadrzędny jest nazywany ojcem, a synowie tego samego ojca,
-   są nazywani braćmi. Węzeł nieposiadający synów jesy nazywany liściem.
+   a) Sposób tworzenia algorytmu. 	
+	b) Struktura danych zbudowana z węzłów. (dobra)
+	c) Liniowo uporządkowany zbiór danych. 
+	d) Działanie w systemie dwójkowym.
 
 2.Wymień 3 rodzaje sortowań. (Piotr Zawidzki)
    Odp: Sortowanie szybkie, bąbelkowe i przez wstawianie. 
@@ -357,4 +357,35 @@ A.	gwarantują znalezienie optymalnego rozwiązania
 B.	służą przy prostych metodach rozwiązania problemu
 C.	należą do algorytmów dokładnych.
 D.	cechują się bardzo duża szybkością działania (poprawna odpowiedź)
+
+66. Gdzie przechowywane są dane w drzewie binarnym? (Zuzanna Tarazewicz)	
+	a) W węzłach. (dobra)
+	b) W strzałkach.
+	c) Zarówno w węzłach, jak i w strzałkach.
+	d) Drzewo binarne nie jest strukturą przechowywania danych.
+   
+67. Jak nazywany jest pierwszy węzeł w drzewie binarnym? (Zuzanna Tarazewicz)	
+	a) Liść
+	b) Łodyga
+	c) Korzeń (dobra)
+	d) Pączek
+
+68. Jak nazywany jest pierwszy węzeł w drzewie binarnym? (Zuzanna Tarazewicz)	
+	a) Liść
+	b) Łodyga
+	c) Korzeń (dobra)
+	d) Pączek
+
+69. Jak nazywa się podrzędny węzeł, który wychodzi z nadrzędnego węzła? (Zuzanna Tarazewicz)	
+	a) Syn (dobra)
+	b) Córka
+	c) Dziecko
+	d) Potomek
+   
+70. W jaki sposób określana jest hierarchia węzła? (Zuzanna Tarazewicz)	
+	a) Węzły są ponumerowane od 1 do n, 1 to najważniejszy węzeł.
+	b) Węzły są ponumerowane od n do 1, n to najważniejszy węzeł. 
+	c) Hierarcha określana jest za pomocą strzałki. Strzałka wychodzi z nadrzędnego węzła. (dobra)
+	d) Hierarcha określana jest za pomocą strzałki. Strzałka wychodzi z podrzędnego węzła. 
+
 
