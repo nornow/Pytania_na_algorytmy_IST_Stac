@@ -524,3 +524,15 @@ Odp:	a) spójnego (poprawna odpowiedź)
 	b) regularnego
 	c) ważonego
 	d) skierowanego
+
+95. Algorytm ustawiający 8 hetmanów jest przykładem: (Filip Łuczak)
+	-rekurencji
+	-iteracji
+	-rekurencji z powrotami(poprawne)
+	-strategii "dziel i zwyciężaj"
+
+96. Dzięki czemu można rozwiązać problem komiwojażera: (Filip Łuczak)
+	-algorytmu Dijkstry
+	-grafem Eulera
+	-cyklem Hamiltona(poprawne)
+	-algorytmu rekurencyjnego
