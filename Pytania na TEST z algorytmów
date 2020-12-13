@@ -176,3 +176,20 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
    D żadna z odpowiedzi nie jest poprawna
 
+38. Wskaż parametr mający bezpośredni wpływ na szybkość algorytmu: (Mateusz Wszoła)
+  A. ilość użytych zmiennych
+  B. wielkość miejsca potrzebna do zapisu danych
+  C. liczba wyrażeń arytmetyczno-logicznych (poprawna odpowiedź)
+  D. żadna z wymienionych odpowiedzi
+
+39. Czym jest złożoność pamięciową algorytmu: (Mateusz Wszoła)
+  A. liczbą komórek pamięci, które będą zajęte przez dane (poprawna odpowiedź)
+  B. zużyciem zasobów dla niekorzystnego zestawu danych
+  C. ilością czasu potrzebnego na wykonanie zadania
+  D. liczbą procedur wykonanych przez algorytm
+
+40. Wskaż sytuację, która opisuje działanie na zasadzie FIFO: (Mateusz Wszoła)
+  A. pobieranie poziomo położonych talerzy z szafki
+  B. wyciąganie zapakowanych jedna na drugą płytek z kartonu
+  C. kolejka do kasy w sklepie (poprawna odpowiedź)
+  D. losowanie ponumerowanych piłek z zamkniętymi oczami
