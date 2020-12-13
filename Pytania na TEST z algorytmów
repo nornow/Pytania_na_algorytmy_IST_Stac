@@ -545,3 +545,17 @@ A. krawędź łącząca wierzchołek z samym sobą (poprawna odpowiedź)
 B. krawędź łącząca dwa wierzchołki
 C. wierzchołek łączący dwie krawędzie
 D. wierzchołek, do którego są skierowane jednostronnie inne wierzchołki
+
+99. Jaka jest minimalna wymagana złożoność obliczeniowa do rozwiązania problemów o klasie NP ? (Marek Łysiak)
+   -Sześcienna
+   -Wielomianowa (poprawne)
+   -wykładnicza
+   -stała
+
+100. Co decyduje o rozsztrzygalności problemu? (Marek Łysiak)
+   -ilość danych wejściowych
+   -złożoność obliczeniowa algorytmu potrzebnego do jego rozwiązania
+   -liczba kroków potrzebnych do rozwiązania problemu (poprawne)
+   -złożoność i zawiłość problemu
+   
+   
