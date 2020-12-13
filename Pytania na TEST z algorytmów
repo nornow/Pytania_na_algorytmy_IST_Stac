@@ -110,3 +110,10 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          -w kolejce elementy są zużywane w takiej kolejności jak przyszły do kolejki 
          -operacje wstawienia/usunięcia elementów do stosu/kolejki wykonywane są w czasie O(1)
          
+25. Na czym polega złożoność pamięciowa algorytmu? (Michał Pstrąg)
+    Odp: Określa liczbę komórek pamięci, która będzie zajęta przez dane i wyniki pośrednie tworzone w trakcie pracy algorytmu.
+    
+26. Na czym polega czasowa złożoność obliczeniowa algorytmu? (Michał Pstrąg)
+    Odp: Określa ilość czasu niezbędnego do rozwiązania problemu w zależności od liczby danych wejściowych. 
+         Złożoność czasowa jest zatem pewną funkcją liczby danych wejściowych n. Wyrażamy ją w jednostkach czasu [s] 
+         albo w liczbie operacji [n].
