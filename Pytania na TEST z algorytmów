@@ -165,14 +165,26 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    - Samemu wykonać iterację
 
 36. Iteracja jest to: (Igor Ulanowski)
-   A. jednokrotne wykonanie fragmentu programu
-   B. sprawdzanie wprowadzonego warunku
-   C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
-   D. przypisanie zmiennej wartości 
+
+A. jednokrotne wykonanie fragmentu programu
+B. sprawdzanie wprowadzonego warunku
+C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
+D. przypisanie zmiennej wartości 
 
 37. Algorytm wieże Hanoi jest algorytmem: (Igor Ulanowski)
-   A. rekurencyjnym
-   B iteracyjnym
-   C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
-   D żadna z odpowiedzi nie jest poprawna
+A. rekurencyjnym
+B iteracyjnym
+C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
+D żadna z odpowiedzi nie jest poprawna
 
+38.Czym charakteryzuje się ścieżka Hamiltona? (Daria Krupowska)
+A.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz. (poprawne)
+B.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym.
+C.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
+D.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu.
+
+39. Czym charakteryzuje się ścieżka Eulera? (Daria Krupowska) 
+A.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym. (poprawne)
+B.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz.
+C.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu i kończy się w wierzchołku startowym.
+D.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
