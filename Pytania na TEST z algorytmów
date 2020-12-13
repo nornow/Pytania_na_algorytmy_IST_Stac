@@ -435,3 +435,13 @@ Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czaso
   C. EOF
   D. pop
 
+79. Krótko opisz problem wieży Hanoi: (Radosław Wodnicki)
+- Problem polegający na odbudowaniu, z zachowaniem kształtu, wieży z krążków o różnych średnicach, przy czym podczas przekładania wolno się posługiwać buforem (reprezentowanym w tym przypadku przez dodatkowy słupek), jednak przy ogólnym założeniu, że nie wolno kłaść krążka o większej średnicy na mniejszy ani przekładać kilku krążków jednocześnie
+
+80. Wymień proste algorytmy sortujące:
+- sortowanie przez wstawianie 
+- sortowanie przez wybór
+- sortowanie przez zamianę
+
+81. Czym jest rekord?
+- Struktura zawierająca w sobie zmienne dowolnego typu. Pozwala na przechowywanie logicznie powiązanych ze sobą danych w jednym obszarze pamięci.
