@@ -88,7 +88,10 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    + Są to algorytmy, które powtarzają daną operacje początkowo określoną liczbę razy lub aż do spełnienia określonego warunku.
    
 21. Czym jest stos,oraz jak działa? (Mikołaj Bryliński)
-   Odp: Stos to liniowa struktura danych w której dane dokładane są na wierzch stosu i z wierzchołka stosu są pobierane.
+   Odp:a) Stos to liniowa struktura danych w której dane dokładane są na wierzch i z wierzchołka są pobierane. (Poprawna odpowiedź)
+       b) Stos to struktura danych służąca do reprezentacji zbiorów dynamicznych, w której elementy ułożone są w liniowym porządku.
+       c) Stos to struktura danych oparta na drzewie, w której wartości potomków węzła są w stałej relacji z wartością rodzica.
+       d) Stos to liniowa struktura danych, w której nowe dane dopisywane są na końcu kolejki, a z początku kolejki pobierane są dane do dalszego przetwarzania
    
 22. W którym rodzaju algorytmu klocki w schemacie blokowym są ustawione jeden pod drugim: (Joanna Remiasz)
    Odp:  a) algorytm z rozgałęzieniami 
