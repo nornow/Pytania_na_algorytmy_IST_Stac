@@ -422,3 +422,9 @@ Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czaso
 	b) Sterta (dobre)
 	c) Stóg (dobre)
 	d) Gniazdo
+	
+77. Liniowa struktura danych, w której dane są pobierane z wierzchołka, a dokładane na wierzch: (Joanna Remiasz)
+	Odp:	a) kopiec 
+		b) stos (poprawna odpowiedź)
+		c) sterta
+		d) graf
