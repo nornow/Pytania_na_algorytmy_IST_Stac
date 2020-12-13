@@ -324,3 +324,11 @@ a) liczba instrukcji
 b) liczba operacji arytmetycznych
 c) ilość miejsca potrzebna dla danych (prawidlowa odpowiedz)
 d) liczba wywołań procedury 
+
+
+60. Na czym polega algorytm Dijkstry ( Krzysztof Podjacki)
+
+a. na wyznaczeniu najkrótszej drogi ze źródła do ujścia ( poprawne)
+b. na optymalizacji szybkości działania programu.
+c. na wyznaczeniu najdłuższej drogi z ujscia do źródła.
+d. na wyznaczeniu błędów kodu w czasie kompilacji.
