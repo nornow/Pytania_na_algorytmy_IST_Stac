@@ -38,13 +38,13 @@ Odp:  - poprawność
       
 
 7. Na czym polega porządkowanie zbioru (sortowanie)? (Tomasz Prus)
-
+Odp. Porządkuje zbiór wybranym sposobem (sortowanie przez wybór, sortowanie przez scalanie,sortowanie przez wstawianie ,sortowanie bąbelkowe).
 
 8. Co to jest Algorytm (definicja)? (Tomasz Prus)
-
+Odp.  Wszelkie przepisy postępowania, które doprowadzają do uzyskania pożądanego efektu – rozwiązania zadania. Algorytmy wiążą się nierozerwalnie z programowaniem.
 
 9. Jest to figura oznaczająca proces, w jej obrębie umieszczamy wszelkie obliczenia lub podstawienia? (Tomasz Prus)
-
+Odp. Prostokąt
 
 10. Na czym polega problem skoczka szachowego? (Bartosz Grabowski)
 Odp: Problem polegał na obejściu skoczkiem wszystkich pól planszy tak, żeby na każdym polu stanąć raz i tylko raz. 
@@ -546,6 +546,7 @@ B. krawędź łącząca dwa wierzchołki
 C. wierzchołek łączący dwie krawędzie
 D. wierzchołek, do którego są skierowane jednostronnie inne wierzchołki
 
+
 99. Algorytm Euklidesa to algorytm: (Norbert Nowotka)
 	A. obliczający ONP
 	B. obliczający NWD
@@ -559,4 +560,18 @@ ODP: B
 	C. to sposób sprowadzania ułamków do wspólnego mianownika
 	D. to sposób na obliczanie wielomianu w przedziale
 ODP: A
+
+
+99. Jaka jest minimalna wymagana złożoność obliczeniowa do rozwiązania problemów o klasie NP ? (Marek Łysiak)
+   -Sześcienna
+   -Wielomianowa (poprawne)
+   -wykładnicza
+   -stała
+
+100. Co decyduje o rozsztrzygalności problemu? (Marek Łysiak)
+   -ilość danych wejściowych
+   -złożoność obliczeniowa algorytmu potrzebnego do jego rozwiązania
+   -liczba kroków potrzebnych do rozwiązania problemu (poprawne)
+   -złożoność i zawiłość problemu
+   
 
