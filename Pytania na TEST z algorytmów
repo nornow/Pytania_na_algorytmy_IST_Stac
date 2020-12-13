@@ -272,7 +272,7 @@ d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
   C.	Sortowanie szybkie (poprawna odpowiedź)
   D.	Sortowanie proste
   
-  
+ 
  52. Algorytm sortujący, który charakteryzuje się wybraniem najmniejszego elementu i wstawieniem go na pierwszą pozycję to: (Patryk Sztuczka)
    A. Bubble sort 
    B. Quick sort 
@@ -422,17 +422,141 @@ Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czaso
 	b) Sterta (dobre)
 	c) Stóg (dobre)
 	d) Gniazdo
+	
+77. Liniowa struktura danych, w której dane są pobierane z wierzchołka, a dokładane na wierzch: (Joanna Remiasz)
+	Odp:	a) kopiec 
+		b) stos (poprawna odpowiedź)
+		c) sterta
+		d) graf
 
- 77. Algorytm Euklidesa to algorytm:(Norbert Nowotka)
+78. Do sprawdzania czy kolejka jest pusta używa się operacją: (Adam Szymiłowski)
+  A. NULL
+  B. empty (poprawne)
+  C. EOF
+  D. pop
+
+79. Krótko opisz problem wieży Hanoi: (Radosław Wodnicki)
+- Problem polegający na odbudowaniu, z zachowaniem kształtu, wieży z krążków o różnych średnicach, przy czym podczas przekładania wolno się posługiwać buforem (reprezentowanym w tym przypadku przez dodatkowy słupek), jednak przy ogólnym założeniu, że nie wolno kłaść krążka o większej średnicy na mniejszy ani przekładać kilku krążków jednocześnie
+
+80. Wymień proste algorytmy sortujące: (Radosław Wodnicki)
+- sortowanie przez wstawianie 
+- sortowanie przez wybór
+- sortowanie przez zamianę
+
+81. Czym jest rekord? (Radosław Wodnicki)
+- Struktura zawierająca w sobie zmienne dowolnego typu. Pozwala na przechowywanie logicznie powiązanych ze sobą danych w jednym obszarze pamięci.
+
+82. Jakie są typy grafów? (Mikołaj Barański)
++ skierowany
+- kierowalny
++ nieskierowany
+-- królewski
+
+83. Na czym polegał problem z mostami w odniesieniu do ścieżki Euler'ra? (Mikołaj Barański)
++ nieparzysta liczba krawędzi
+-- spalono wszystkie mosty
+- nieparzysta ilość wysp
+- parzysta ilość krawędzi
+
+84. Kiedy wierzchołki są incydentne? (Mikołaj Barański)
+- kiedy nie są połączone ze sobą
++ kiedy mają wspólną krawędź
+- kiedy nie mają żadnej krawędzi
+- kiedy nie są na grafie
+
+85. Gdzie wykorzystuje się algorytm komiwojażera? (Mikołaj Barański)
++ W systemach GPS
+- W sortowaniu bąbelkowym
++ Przy wyborze najkrótszej ścieżki
+- W sortowaniu przez wybór
+
+86. Drzewo, w którym wartości potomków węzła są w stałej relacji z wartością rodzica to: (Norbert Kosierkiewicz)
+A. kopiec (poprawna odpowiedź)
+B. drzewo binarne
+C. struktura
+D. stos
+
+87. W schemacie blokowym, aby przedstawić część programu zdefiniowanego odrębnie, należy skorzystać z bloku: (Norbert Kosierkiewicz)
+A. komentarza
+B. decyzyjnego
+C. fragmentu (poprawna odpowiedź)
+D. granicznego
+
+88. Wybierz wszystkie etapy Quick Sort. (Zuzanna Tarazewicz)
+	a. Dziel (Dobra)
+	b. Połącz (Dobra)
+	c. Dodaj
+	d. Zwyciężaj (Dobra)
+	
+89. Podaj warunek niestruktualny kompletnego drzewa binarnego. (Zuzanna Tarazewicz)
+	a. Podrzędne węzły muszą mieć większą zawartość pola data, niż ich nadrzędne węzły.
+	b. Podrzędne węzły nie mogą mieć większej zawartości pola data niż ich nadrzędne węzły. (dobra)
+	c. Ilość węzłów bez węzłów podrzędnych musi wynosić dokładnie 1024 węzły.
+	d. Każdy ostatni węzeł nadrzędny musi mieć maksymalnie jeden węzeł podrzędny.
+	
+90. Jak inaczej nazywamy złożoność minimalną? (Zuzanna Tarazewicz)
+	a. Radosna
+	b. Piękna
+	c. Optymistyczna (Dobra)
+	d. Pozytywna
+	
+91. Jak inaczej nazywamy złożoność maksymalną? (Zuzanna Tarazewicz)
+	a. Smutna
+	b. Brzydka
+	c. Pesymistyczna (Dobra)
+	d. Negatywna
+
+92. Graf w którym możliwe jest przejście pomiędzy wierzchołkami tylko w jedną stronę jest rodzajem grafu: (Joanna Remiasz)
+Odp: 	a) spójnego
+	b) regularnego
+	c) ważonego
+	d) skierowanego (poprawna odpowiedź)
+	
+	
+93.Wybierz prawidłowe stwierdzenie? (Paruyr Gevorgyan).
+A) W cyklach Eulera każdy wierzchołek musi mieć parzysty stopień. (Poprawna odpowiedź)
+B) W cyklach Eulera każdy wierzchołek musi mieć nieparzysty stopień.
+C) Na ścieżkach Eulera nie więcej niż 3 wierzchołki mogą mieć nieparzyste stopnie.
+D) Na ścieżkach Eulera nie więcej niż 3 wierzchołki mogą mieć parzyste stopnie.
+
+94.Graf w którym istnieje ścieżka (droga) w grafie łącząca dowolne dwa wierzchołki jest rodzajem grafu: (Joanna Remiasz)
+Odp:	a) spójnego (poprawna odpowiedź)
+	b) regularnego
+	c) ważonego
+	d) skierowanego
+
+95. Algorytm ustawiający 8 hetmanów jest przykładem: (Filip Łuczak)
+	-rekurencji
+	-iteracji
+	-rekurencji z powrotami(poprawne)
+	-strategii "dziel i zwyciężaj"
+
+96. Dzięki czemu można rozwiązać problem komiwojażera: (Filip Łuczak)
+	-algorytmu Dijkstry
+	-grafem Eulera
+	-cyklem Hamiltona(poprawne)
+	-algorytmu rekurencyjnego
+	
+97. Opisz na czym polega problem komiwojażera. (Paweł Pauszek)
+Odp: Dane jest n liczby miast, które komiwojażer na odwiedzić oraz odległość między każdym miastem. Celem problemu jest znalezienie najkrótszej, najoptymalniejszej trasy, która łączy wszystkie miasta, gdzie trasa ta zaczyna i kończy się się w określonym punkcie.
+
+98. Pętla własna to: (Norbert Kosierkiewicz)
+A. krawędź łącząca wierzchołek z samym sobą (poprawna odpowiedź)
+B. krawędź łącząca dwa wierzchołki
+C. wierzchołek łączący dwie krawędzie
+D. wierzchołek, do którego są skierowane jednostronnie inne wierzchołki
+
+99. Algorytm Euklidesa to algorytm: (Norbert Nowotka)
 	A. obliczający ONP
 	B. obliczający NWD
 	C. obliczający NWW i NWD
 	D. obliczający NWW
 ODP: B	
 
- 78. Schemat Hornera to:
+100. Schemat Hornera to: (Norbert Nowotka)
 	A. to sposób na obliczanie wielomianu w punkcie
 	B. to sposób wyznaczania NWW
 	C. to sposób sprowadzania ułamków do wspólnego mianownika
 	D. to sposób na obliczanie wielomianu w przedziale
 ODP: A
+
