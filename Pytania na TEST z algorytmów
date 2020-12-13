@@ -202,3 +202,111 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
   B. wyciąganie zapakowanych jedna na drugą płytek z kartonu
   C. kolejka do kasy w sklepie (poprawna odpowiedź)
   D. losowanie ponumerowanych piłek z zamkniętymi oczami
+  
+41.Czym charakteryzuje się ścieżka Hamiltona? (Daria Krupowska)
+  A.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz. (poprawne)
+  B.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym.
+  C.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
+  D.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu.
+
+42. Czym charakteryzuje się ścieżka Eulera? (Daria Krupowska) 
+  A.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym. (poprawne)
+  B.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz.
+  C.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu i kończy się w wierzchołku startowym.
+  D.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
+
+  
+
+  43.Cechą idealnego algorytmu jest: (Miłosz Bolewski)
+  A.Zapotrzebowanie na dużą ilość pamięci
+  B.prosty kod (poprawna odpowiedź)
+  C.możliwość zapisania w każdym języku programowania (poprawna odpowiedź)
+  D.może dawać fałszywe wyniki
+
+ 44. Nie istnieje postać złożonośi pamięciowej: (Patryk Sztuczka)
+   A. Zerowa (poprawna odpowiedź)
+   B. Minimalna
+   C. Średnia
+   D. Maksymalna
+    
+ 45. Algoryt sortujący opierający się na strategii "dziel i zwyciężaj" to: (Patryk Sztuczka)
+   A. Bubble sort
+   B. Quick sort (poprawna odpowiedź)
+   C. Selection sort
+   D. Insertion sort
+ 
+ 46. Algorytm sortujący polegający na porównywaniu par sąsiadujących elementów to: (Patryk Sztuczka)
+   A. Bubble sort (poprawna odpowiedź)
+   B. Quick sort 
+   C. Selection sort
+   D. Insertion sort
+   
+   47.	Czym jest lista krawędzi? 
+a)	Lista na której przechowywane są wszystkie krawędzie występujące w grafie.(DOBRE)
+b)	Kwadratowa tablica o rozmiarze V*V, która wypełnia się zerami jeśli dwa wierzchołki nie są połączone krawędzią.
+c)	Algorytm wynaleziony w 1956 przez E.J.Isacca działający w czasie liniowym
+d)	Polega na przypisaniu każdemu wierzchołkami grafu listy sąsiadujących z nim wierzchołków.
+
+48.	Jak działają algorytmy regurencyjne?
+a)	Same siebie wywołują (DOBRE)
+b)	Sortują przez zamianę 
+c)	Wymagają liczb z przedziału (0,1)
+d)	Wypisują permutacje w porządku rosnącym
+
+49.	Do czego używany jest algorytm Dijkstry?
+a)	Do porównania wszystkich ścieżek 
+b)	Używany jest do rootingu (najkrótszej drogi) (DOBRE)
+c)	Do sortowania przez zamianę 
+d)	Rozwiązuje problem ośmiu hetmanów
+
+50.	Jakie są sposoby na zapisywanie algorytmów? 
+a)	Język naturalny, kod binarny, kod szesnastkowy, języki formalne
+b)	Wzory matematyczne, grafy, rysunki, funkcje
+c)	Język naturalny, schematy blokowe, języki formalne, funkcje rekurencyjne (DOBRE)
+d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
+
+
+ 51. Jaki algorytm sortujący działa najszybciej, gdy elementy są uporządkowane w sposób losowy? (Norbert Kosierkiewicz)
+  A.	Sortowanie bąbelkowe
+  B.	Sortowanie mieszane
+  C.	Sortowanie szybkie (poprawna odpowiedź)
+  D.	Sortowanie proste
+  
+  
+ 52. Algorytm sortujący, który charakteryzuje się wybraniem najmniejszego elementu i wstawieniem go na pierwszą pozycję to: (Patryk Sztuczka)
+   A. Bubble sort 
+   B. Quick sort 
+   C. Selection sort (poprawna odpowiedź)
+   D. Insertion sort
+  
+ 53. Algorytm sortujący, który przypomina układanie kart pobranych z talii to: (Patryk Sztuczka)
+   A. Bubble sort 
+   B. Quick sort 
+   C. Selection sort 
+   D. Insertion sort (poprawna odpowiedź)
+   
+ 54.Złożoność średnia określa:  (Radosław Barczyński)
+ A.zużycie zasobów dla najkorzystniejszego
+     zestawu danych
+ B.zużycie zasobów dla losowego zestawu danych(poprawna)
+ C.określa zużycie zasobów dla niekorzystnego
+     zestawu danych
+ D.zużycie zasobów dla konkretnego zestawu danych
+   
+   55. Który algorytm składa się częściowo z samego siebie: (Bartosz Warszyński)
+A - Iteracyjny
+B - Na grafach
+C - Rekurencyjny (POPRAWNA)
+D - Cykliczny
+
+56. Która z wymienionych metod jest metodą przeszukiwania grafu: (Bartosz Warszyński)
+A - Przeszukiwanie w głąb (POPRAWNA)
+B - przeszukiwanie wzdłuż
+C - Przeszukiwanie zewnętrzne
+D - Przeszukiwanie wewnętrzne
+
+57. Jak nazywany jest węzeł główny drzewa binarnego (Bartosz Warszyński)
+A - Gałąź
+B - Korona
+C - Węzeł wewnętrzny
+D - Korzeń (POPRAWNE)
