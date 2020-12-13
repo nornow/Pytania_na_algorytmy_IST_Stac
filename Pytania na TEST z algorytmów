@@ -1,4 +1,4 @@
-﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
    Odp: To struktura danych zbudowana z węzłów. Dane są przechowywane w węzłach drzewa, które są ze sobą powiązane
    hierarchicznie za pomocą strzałki, która określa hierarchię węzła. Pierwszy węzeł to korzeń, z niego właśnie
    "wyrastają" inne węzły, które nazywane są synami. Węzeł nadrzędny jest nazywany ojcem, a synowie tego samego ojca,
@@ -120,8 +120,14 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          albo w liczbie operacji [n].
 
 27. Czym jest czasowa złożoność obliczeniowa? (Iga Biegasiewicz)
++ilość czasu niezbędna do rozwiązania problemu, zależna jest od liczby danych wejściowych
+-ilość czasu poświecona na napisanie programu
 
 28. Czym jest złożoność pamięciowa? (Iga Biegasiewicz)
++liczba komórek pamięci, która będzie zajęta przez dane i wyniki pośrednie tworzone w trakcie pracy algorytmu
+-liczba komórek pamięci, która nie będzie zajęta przez dane, ani wyniki pośrednie tworzone w trakcie pracy algorytmu
+-liczba komórek pamięci, która będzie zajęta przez dane wykorzystane w algorytmie
+-liczba komórek pamięci, która będzie zajęta wyniki pośrednie tworzone w trakcie pracy algorytmu
 
 29. Blok wprowadzania danych jest oznaczany na schemacie blokowym: (Kacper Grabiński)
    A. prostokątem
@@ -195,6 +201,7 @@ D żadna z odpowiedzi nie jest poprawna
   C. kolejka do kasy w sklepie (poprawna odpowiedź)
   D. losowanie ponumerowanych piłek z zamkniętymi oczami
 
+
 41.Czym charakteryzuje się ścieżka Hamiltona? (Daria Krupowska)
   A.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz. (poprawne)
   B.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym.
@@ -206,3 +213,19 @@ D żadna z odpowiedzi nie jest poprawna
   B.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz.
   C.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu i kończy się w wierzchołku startowym.
   D.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
+
+  
+
+  43.Cechą idealnego algorytmu jest: (Miłosz Bolewski)
+  A.Zapotrzebowanie na dużą ilość pamięci
+  B.prosty kod (poprawna odpowiedź)
+  C.możliwość zapisania w każdym języku programowania (poprawna odpowiedź)
+  D.może dawać fałszywe wyniki
+
+  44. Nie istnieje postać złożonośi pamięciowej: (Patryk Sztuczka)
+    A. Zerowa (poprawna odpowiedź)
+    B. Minimalna
+    C. Średnia
+    D. Maksymalna
+
+
