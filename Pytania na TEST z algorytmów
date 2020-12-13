@@ -539,3 +539,9 @@ Odp:	a) spójnego (poprawna odpowiedź)
 	
 97. Opisz na czym polega problem komiwojażera. (Paweł Pauszek)
 Odp: Dane jest n liczby miast, które komiwojażer na odwiedzić oraz odległość między każdym miastem. Celem problemu jest znalezienie najkrótszej, najoptymalniejszej trasy, która łączy wszystkie miasta, gdzie trasa ta zaczyna i kończy się się w określonym punkcie.
+
+98. Pętla własna to: (Norbert Kosierkiewicz)
+A. krawędź łącząca wierzchołek z samym sobą (poprawna odpowiedź)
+B. krawędź łącząca dwa wierzchołki
+C. wierzchołek łączący dwie krawędzie
+D. wierzchołek, do którego są skierowane jednostronnie inne wierzchołki
