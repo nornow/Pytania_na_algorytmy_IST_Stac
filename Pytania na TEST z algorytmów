@@ -428,3 +428,10 @@ Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czaso
 		b) stos (poprawna odpowiedź)
 		c) sterta
 		d) graf
+
+78. Do sprawdzania czy kolejka jest pusta używa się operacją: (Adam Szymiłowski)
+  A. NULL
+  B. empty (poprawne)
+  C. EOF
+  D. pop
+
