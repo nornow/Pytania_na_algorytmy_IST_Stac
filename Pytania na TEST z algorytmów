@@ -90,11 +90,11 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
 21. Czym jest stos,oraz jak działa? (Mikołaj Bryliński)
    Odp: Stos to liniowa struktura danych w której dane dokładane są na wierzch stosu i z wierzchołka stosu są pobierane.
    
-22. Wymień rodzaje algorytmów. (Joanna Remiasz)
-   Odp:  -algorytmy sekwencyjne  
-         -algorytmy z rozgałęzieniami 
-         -algorytmy rekurencyjne
-         -algorytmy iteracyjne
+22. W którym rodzaju algorytmu klocki w schemacie blokowym są ustawione jeden pod drugim: (Joanna Remiasz)
+   Odp:  a) algorytm z rozgałęzieniami 
+         b) algorytm  iteracyjny
+         c) algorytm rekurencyjny
+         d) algorytm sekwencyjny (poprawna odpowiedź)
 
 23. Wymień minimum 3 przykładowe struktury danych. (Joanna Remiasz)
    Odp:  -lista
