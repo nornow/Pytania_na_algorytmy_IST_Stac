@@ -272,7 +272,7 @@ d)	Schematy blokowe, funkcje rekurencyjne, języki obce, kod dwójkowy
   C.	Sortowanie szybkie (poprawna odpowiedź)
   D.	Sortowanie proste
   
-  
+ 
  52. Algorytm sortujący, który charakteryzuje się wybraniem najmniejszego elementu i wstawieniem go na pierwszą pozycję to: (Patryk Sztuczka)
    A. Bubble sort 
    B. Quick sort 
@@ -512,8 +512,9 @@ Odp: 	a) spójnego
 	c) ważonego
 	d) skierowanego (poprawna odpowiedź)
 	
-93.Graf w którym istnieje ścieżka (droga) w grafie łącząca dowolne dwa wierzchołki jest rodzajem grafu: (Joanna Remiasz)
-Odp:	a) spójnego (poprawna odpowiedź)
-	b) regularnego
-	c) ważonego
-	d) skierowanego
+	
+94.Wybierz prawidłowe stwierdzenie? (Paruyr Gevorgyan).
+A) W cyklach Eulera każdy wierzchołek musi mieć parzysty stopień. (Poprawna odpowiedź)
+B) W cyklach Eulera każdy wierzchołek musi mieć nieparzysty stopień.
+C) Na ścieżkach Eulera nie więcej niż 3 wierzchołki mogą mieć nieparzyste stopnie.
+D) Na ścieżkach Eulera nie więcej niż 3 wierzchołki mogą mieć parzyste stopnie.
