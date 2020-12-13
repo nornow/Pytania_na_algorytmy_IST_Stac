@@ -135,8 +135,31 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    D. jedno wejście i jedno wyjście
    
 31. Schemat blokowy algorytmu jest: (Kacper Grabiński)
-A. graficznym przedstawieniem słownego zapisu algorytmu (poprawna odpowiedź)
-B. słownym przedstawieniem graficznego zapisu algorytmu
-C. słownym przedstawieniem programu komputerowego
+   A. graficznym przedstawieniem słownego zapisu algorytmu (poprawna odpowiedź)
+   B. słownym przedstawieniem graficznego zapisu algorytmu
+   C. słownym przedstawieniem programu komputerowego
 
+32. W jakiej strukturze danych występuje LIFO?
+   - Tablica wielowymiarowa
+   - Lista
+   + Stos
+   - Drzewo binarne
+
+33. W jakiej strukturze danych występuje FIFO?
+   - Tablica jednowymiarowa
+   - Drzewo binarne
+   + Kolejka
+   - Lista
+
+34. Jaki kształt ma blok obliczeniowy?
+   - Romb
+   - Owal
+   + Prostokąt
+   - Równoległobok
+
+35. Co musi zrobić algorytm żebyśmy mogli powiedzieć że jest rekurencyjny?
+   - Posiadać pętlę FOR
+   + Samemu się wywołać
+   - Posiadać nieskończoną pętle WHILE
+   - Samemu wykonać iterację
 
