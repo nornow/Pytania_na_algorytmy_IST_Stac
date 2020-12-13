@@ -77,3 +77,9 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
   
 18. Czy są Mosty Królewskie (Michał Bej)
   - Problem polegał na przejściu przez 7 mostów łączących dzielnice miasta z wyspą w taki sposób aby po każdym moście przejść tylko raz.
+
+19. Na czym polega graf Eulera? (Aleksandra Kania)
+   - To graf, w którym można stworzyć cykl Eulera, który przechodzi tylko przez wybrane krawędzie, nieskończenie wiele razy i wraca do punktu wyjściowego.
+   - To graf, w którym można skonstruować cykl Eulera, który przechodzi przez każdą jego krawędź nieskończenie wiele razy i nie wraca nigdy do punktu wyjściowego.
+   + To graf, w którym można skonstruować cykl Eulera, który przechodzi przez każdą jego krawędź dokładnie raz i wraca do punktu wyjściowego.
+   - To graf, w którym można stworzyć cykl Eulera, który przechodzi przez wybrane krawędzie tylko raz i wraca do punktu wyjściowego.
