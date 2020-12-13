@@ -86,3 +86,6 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    
 20. Na czym polegają algorytmy iteracyjne? (Aleksandra Kania)
    + Są to algorytmy, które powtarzają daną operacje początkowo określoną liczbę razy lub aż do spełnienia określonego warunku.
+   
+21. Czym jest stos,oraz jak działa? (Mikołaj Bryliński)
+   Odp: Stos to liniowa struktura danych w której dane dokładane są na wierzch stosu i z wierzchołka stosu są pobierane.
