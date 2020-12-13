@@ -103,3 +103,10 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          -graf 
          -kopiec  
          -drzewo
+
+24. Czym różni się stos, a kolejka? (Joanna Remiasz)
+   Odp: -stos i kolejka to liniowe struktury danych 
+         -na stosie element, który doszedł ostatni jest zużywany jako pierwszy 
+         -w kolejce elementy są zużywane w takiej kolejności jak przyszły do kolejki 
+         -operacje wstawienia/usunięcia elementów do stosu/kolejki wykonywane są w czasie O(1)
+         
