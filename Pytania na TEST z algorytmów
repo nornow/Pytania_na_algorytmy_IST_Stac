@@ -1,4 +1,4 @@
-﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
    Odp: To struktura danych zbudowana z węzłów. Dane są przechowywane w węzłach drzewa, które są ze sobą powiązane
    hierarchicznie za pomocą strzałki, która określa hierarchię węzła. Pierwszy węzeł to korzeń, z niego właśnie
    "wyrastają" inne węzły, które nazywane są synami. Węzeł nadrzędny jest nazywany ojcem, a synowie tego samego ojca,
@@ -200,8 +200,16 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
   C. kolejka do kasy w sklepie (poprawna odpowiedź)
   D. losowanie ponumerowanych piłek z zamkniętymi oczami
   
-41. Nie istnieje postać złożonośi pamięciowej: (Patryk Sztuczka)
-  A. Zerowa (poprawna odpowiedź)
-  B. Minimalna
-  C. Średnia
-  D. Maksymalna
+
+  41.Cechą idealnego algorytmu jest: (Miłosz Bolewski)
+  A.Zapotrzebowanie na dużą ilość pamięci
+  B.prosty kod (poprawna odpowiedź)
+  C.możliwość zapisania w każdym języku programowania (poprawna odpowiedź)
+  D.może dawać fałszywe wyniki
+
+  42. Nie istnieje postać złożonośi pamięciowej: (Patryk Sztuczka)
+    A. Zerowa (poprawna odpowiedź)
+    B. Minimalna
+    C. Średnia
+    D. Maksymalna
+
