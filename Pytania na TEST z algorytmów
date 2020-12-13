@@ -393,3 +393,7 @@ A. Algorytm sortowania szybkiego (poprawna odpowiedź)
 B. Algorytm sortowania prostego
 C. Algorytm sortowania bąbelkowego
 D. Algorytm sortowania przez wstawianie
+
+72. Czym jest sortowanie bąbelkowe (ang. bubble sort)? (Marcin Sypniewski)
+
+Odp. Sortowanie bąbelkowe jest prostą metodą sortowania o złożoności czasowej O(n^{2}) i pamięciowej O(1).
