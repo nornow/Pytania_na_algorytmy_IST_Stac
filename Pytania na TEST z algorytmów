@@ -1,4 +1,4 @@
-﻿1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
+1.Czym jest drzewo binarne? (Zuzanna Tarazewicz)
    Odp: To struktura danych zbudowana z węzłów. Dane są przechowywane w węzłach drzewa, które są ze sobą powiązane
    hierarchicznie za pomocą strzałki, która określa hierarchię węzła. Pierwszy węzeł to korzeń, z niego właśnie
    "wyrastają" inne węzły, które nazywane są synami. Węzeł nadrzędny jest nazywany ojcem, a synowie tego samego ojca,
@@ -120,8 +120,14 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
          albo w liczbie operacji [n].
 
 27. Czym jest czasowa złożoność obliczeniowa? (Iga Biegasiewicz)
++ilość czasu niezbędna do rozwiązania problemu, zależna jest od liczby danych wejściowych
+-ilość czasu poświecona na napisanie programu
 
 28. Czym jest złożoność pamięciowa? (Iga Biegasiewicz)
++liczba komórek pamięci, która będzie zajęta przez dane i wyniki pośrednie tworzone w trakcie pracy algorytmu
+-liczba komórek pamięci, która nie będzie zajęta przez dane, ani wyniki pośrednie tworzone w trakcie pracy algorytmu
+-liczba komórek pamięci, która będzie zajęta przez dane wykorzystane w algorytmie
+-liczba komórek pamięci, która będzie zajęta wyniki pośrednie tworzone w trakcie pracy algorytmu
 
 29. Blok wprowadzania danych jest oznaczany na schemacie blokowym: (Kacper Grabiński)
    A. prostokątem
@@ -164,19 +170,77 @@ Jeśli skoczek może obejść wszystkie pola, ale po ostatnim ruchu nie może wr
    - Posiadać nieskończoną pętle WHILE
    - Samemu wykonać iterację
 
-36. Na czym polega problem komiwojażera? (Jakub Kujawa)
+36. Iteracja jest to: (Igor Ulanowski)
+
+A. jednokrotne wykonanie fragmentu programu
+B. sprawdzanie wprowadzonego warunku
+C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
+D. przypisanie zmiennej wartości 
+
+37. Algorytm wieże Hanoi jest algorytmem: (Igor Ulanowski)
+A. rekurencyjnym
+B iteracyjnym
+C rekurencyjnym i iteracyjnym (poprawna odpowiedź)
+D żadna z odpowiedzi nie jest poprawna
+
+38. Wskaż parametr mający bezpośredni wpływ na szybkość algorytmu: (Mateusz Wszoła)
+  A. ilość użytych zmiennych
+  B. wielkość miejsca potrzebna do zapisu danych
+  C. liczba wyrażeń arytmetyczno-logicznych (poprawna odpowiedź)
+  D. żadna z wymienionych odpowiedzi
+
+39. Czym jest złożoność pamięciową algorytmu: (Mateusz Wszoła)
+  A. liczbą komórek pamięci, które będą zajęte przez dane (poprawna odpowiedź)
+  B. zużyciem zasobów dla niekorzystnego zestawu danych
+  C. ilością czasu potrzebnego na wykonanie zadania
+  D. liczbą procedur wykonanych przez algorytm
+
+40. Wskaż sytuację, która opisuje działanie na zasadzie FIFO: (Mateusz Wszoła)
+  A. pobieranie poziomo położonych talerzy z szafki
+  B. wyciąganie zapakowanych jedna na drugą płytek z kartonu
+  C. kolejka do kasy w sklepie (poprawna odpowiedź)
+  D. losowanie ponumerowanych piłek z zamkniętymi oczami
+
+
+41.Czym charakteryzuje się ścieżka Hamiltona? (Daria Krupowska)
+  A.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz. (poprawne)
+  B.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym.
+  C.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
+  D.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu.
+
+42. Czym charakteryzuje się ścieżka Eulera? (Daria Krupowska) 
+  A.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu, lecz kończy się w innym wierzchołku niż w startowym. (poprawne)
+  B.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie jeden raz.
+  C.Ścieżka, która przechodzi dokładnie jeden raz przez każdą krawędź grafu i kończy się w wierzchołku startowym.
+  D.Ścieżka, która odwiedza każdy jego wierzchołek dokładnie 3 razy.
+
+  
+
+  43.Cechą idealnego algorytmu jest: (Miłosz Bolewski)
+  A.Zapotrzebowanie na dużą ilość pamięci
+  B.prosty kod (poprawna odpowiedź)
+  C.możliwość zapisania w każdym języku programowania (poprawna odpowiedź)
+  D.może dawać fałszywe wyniki
+
+  44. Nie istnieje postać złożonośi pamięciowej: (Patryk Sztuczka)
+    A. Zerowa (poprawna odpowiedź)
+    B. Minimalna
+    C. Średnia
+    D. Maksymalna
+    
+45. Na czym polega problem komiwojażera? (Jakub Kujawa)
 	- Należy znaleść ścieżkę o najmiejszej sumie wag, która przechodzi przez każdą krawędz grafu.
 	- Odwiedzenie w sposób usystematyzowany wszystkich wierzchołków grafu.
 	+ W danym grafie należy znaleźć ścieżkę o najmniejszej sumie wag krawędzi, która przechodzi dokładnie jeden raz przez każdy wierzchołek i wraca do wierzchołka startowego.
 	- Należy w danym grafie znaleźć ścieżkę, która przechodzi przez każdą krawędź dokładnie jeden raz i wraca do punktu wyjściowego.
 
-37. Iteracja jest to: (Igor Ulanowski)
+46. Iteracja jest to: (Igor Ulanowski)
    A. jednokrotne wykonanie fragmentu programu
    B. sprawdzanie wprowadzonego warunku
    C. wielokrotne powtarzanie wykonania tej samej instrukcji (poprawna odpowiedź)
    D. przypisanie zmiennej wartości 
 
-38. Algorytm wieże Hanoi jest algorytmem: (Igor Ulanowski)
+47. Algorytm wieże Hanoi jest algorytmem: (Igor Ulanowski)
    A. rekurencyjnym
    B. iteracyjnym
    C. rekurencyjnym i iteracyjnym (poprawna odpowiedź)
